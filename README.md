@@ -1,3 +1,3 @@
 # Subi
 
-prototype 1, kind of a proof of concept
+prototype 1.5, kind of a proof of concept
